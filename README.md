@@ -15,3 +15,5 @@ It is to implement a decentralized application on Ethereum Network using blockch
 
 
 
+
+![alt text](https://github.com/Arpit-jain4/fundraising/blob/master/flow.PNG)
